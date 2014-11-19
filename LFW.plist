@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://resource.jiaju.99.com/jiaju/LFW/99Home_iPhone_V1.1.55_201411052355_ios8.1(SVN5310)_LFW.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://img3.91huo.cn/jiaju/images/2014v1/logo_1.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.nd.91jiajuSL</string>
+				<key>bundle-version</key>
+				<string>1.1.55</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>Apple</string>
+				<key>title</key>
+				<string>99jiaju</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
