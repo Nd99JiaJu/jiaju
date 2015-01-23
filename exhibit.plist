@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://resource.jiaju.99.com/jiaju/1_zh/99Home_iPhone_V1.1.62_201411261301_ios8.1(SVN5911)_1_ZH.ipa</string>
+					<string>http://resource.jiaju.99.com/jiaju/1_zh/99Home_iPhone_V1.2.24_201501211631_ios8.1(SVN7679)_1_ZH.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.nd.91jiajuSL</string>
 				<key>bundle-version</key>
-				<string>1.1.62</string>
+				<string>1.2.24</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
