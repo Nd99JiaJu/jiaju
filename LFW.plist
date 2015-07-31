@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://resource.jiaju.99.com/jiaju/LFW/99Home_iPhone_V1.9.9_201507081906(SVN9583)_23_LFW.ipa</string>
+					<string>http://resource.jiaju.99.com/jiaju/LFW/99Home_iPhone_V1.10.10_201507291725(SVN9710)_23_LFW.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.nd.91jiajuSL</string>
 				<key>bundle-version</key>
-				<string>1.9.9</string>
+				<string>1.10.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
