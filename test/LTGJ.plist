@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://resource.jiaju.99.com/jiaju/LTGJ/99Home_iPhone_v1.12.72_201512102045(svn10442)_Diy_NoPaperMarker_Point_22_LTGJ.ipa</string>
+					<string>http://resource.jiaju.99.com/jiaju/LTGJ/99Home_iPhone_v1.13.5_201512301425(svn10525)_newgoods_game_22_LTGJ.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 				<key>bundle-identifier</key>
 				<string>com.nd.91jiajuSL</string>
 				<key>bundle-version</key>
-				<string>1.12.72</string>
+				<string>1.13.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
